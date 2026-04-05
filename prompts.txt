@@ -1,0 +1,121 @@
+LINKEDIN AUTOMATION WORKFLOW PROMPTS
+
+CONTENT IDEA GENERATION
+
+1. Generate 10 LinkedIn post ideas for [audience] around [topic]. Keep each idea practical, specific, and useful for decision makers.
+
+2. Give me 15 strong LinkedIn hooks for a personal brand in [industry]. Mix curiosity, authority, and contrarian angles.
+
+3. Turn this offer into 12 educational LinkedIn post ideas.
+Offer:
+Audience:
+Outcome:
+Proof:
+
+POST WRITING
+
+4. Write a LinkedIn text post for [audience] about [topic].
+Use this structure:
+Hook
+Context
+3 practical insights
+Short call to action
+Keep it under 220 words and make it sound natural.
+
+5. Write a storytelling LinkedIn post based on this client situation.
+Problem:
+What I changed:
+Result:
+Lesson:
+Make it simple, credible, and conversational.
+
+6. Rewrite this raw idea into 3 LinkedIn versions.
+One authority post
+One storytelling post
+One contrarian post
+
+CAROUSEL AND LEAD MAGNETS
+
+7. Turn this LinkedIn post idea into a 7 slide carousel.
+For each slide give:
+headline
+supporting line
+simple visual cue
+
+8. Create a checklist style lead magnet on [topic] for [audience].
+I want:
+title
+10 checklist items
+short intro
+soft call to action
+
+9. Turn this idea into a one page downloadable checklist that can be used as a lead magnet.
+Idea:
+Audience:
+Desired outcome:
+
+COMMENT AND DM WORKFLOW
+
+10. Create 15 comment replies I can use when people engage with my post about [topic]. Keep them friendly and designed to continue the conversation.
+
+11. Write 5 follow up DM templates for people who:
+commented on my post
+downloaded my checklist
+asked for more details
+visited my profile
+replied after a long gap
+
+12. Write a short connection request for [audience] that sounds warm and not salesy.
+
+LEAD QUALIFICATION
+
+13. Build a simple lead scoring framework for my business.
+Use 3 factors:
+fit
+urgency
+budget
+Score each one from 1 to 5 and explain what a high quality lead looks like.
+
+14. Based on this lead data, suggest next action and priority.
+Name:
+Role:
+Company:
+Pain point:
+Budget:
+Urgency:
+Last interaction:
+
+REPURPOSING
+
+15. Turn this LinkedIn post into:
+one short email
+one blog outline
+one Instagram caption
+one 30 second reel script
+
+16. Create a weekly repurposing plan from 3 LinkedIn posts.
+I want one blog, one carousel, one email, and one short video idea from each post.
+
+ANALYSIS
+
+17. Review these 5 LinkedIn posts and tell me:
+what hooks worked
+which CTAs are strongest
+which themes I should repeat
+what to improve next week
+
+18. Based on this content spreadsheet, suggest the next 10 posts I should prioritize for lead generation.
+
+SYSTEM DESIGN
+
+19. Help me design a simple LinkedIn workflow using Google Sheets and Make.
+I need stages for:
+content ideas
+ready to post content
+published posts
+engaged leads
+follow ups
+closed clients
+
+20. Create a weekly operating system for LinkedIn growth in 5 steps.
+Keep it realistic for a solo consultant with 30 minutes a day.
